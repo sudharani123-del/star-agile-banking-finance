@@ -28,4 +28,5 @@ stage('Push-Image') {
                sh 'docker push sudharani000/financeme:1.0'
  }
 }
-
+}
+}
